@@ -363,7 +363,7 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .html::before{
-    width: 90%;
+    width: 50%;
 }
 .skills-content .right .css::before{
     width: 60%;
